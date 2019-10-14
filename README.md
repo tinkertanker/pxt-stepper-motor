@@ -33,8 +33,7 @@ input.onButtonPressed(Button.B, function () {
     motor.moveClockwise(0.5, stepUnit.Rotations)
 })
 
-let motor: stepperMotor.Motor = null
-let motor2 = stepperMotor.createMotor(
+let motor = stepperMotor.createMotor(
     DigitalPin.P0,
     DigitalPin.P1,
     DigitalPin.P2,  
