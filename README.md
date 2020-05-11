@@ -4,10 +4,6 @@ This extension also requires a driver board of some sort. I use the ULN2003. It 
 Find out more about the 28byj-48 and ULN2003 driver here: 
 https://www.seeedstudio.com/blog/2019/03/04/driving-a-28byj-48-stepper-motor-with-a-uln2003-driver-board-and-arduino/
 
-The 28byj-48 stepper motor is well, ok for small projects. I have learnt it will not move the weight of a small collapsible umbrella. I was reduced to making a paper umbrella instead. Why in the world do you need to attach an umbrella to a stepper motor? If you ever needed an automated moving defense against Nerf bullets of course! Is one plausible answer. But this project is inspired by the drive to achieve total protection from the sun. Find out in the upcoming book - 
-
-_Let's Get Hacking With Micro:bit! The Tinkercademy Guide for Teachers and Tinkerers._
-
 ## Basic Usage
 
 `||set motor to motor at in1/in2/in3/in4||`
